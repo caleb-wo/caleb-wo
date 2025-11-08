@@ -36,15 +36,16 @@ When it comes to **backend**, I'm more _framework-agnostic_—I prioritize gaini
   		</ul>
  	</td>
   <td>
-    <img src="/assets/250529_CalebWolfe_008_NG.jpg" width="300" alt="Portrait of Caleb Wolfe">
+    <img src="/assets/250529_CalebWolfe_008_NG.jpg" alt="Portrait of Caleb Wolfe">
    </td>
  </tr>
 </table>
 
+
 ## Off Topic
 
-- I love video games, & as an extension, I'm also am learning game development. I've built games with [Godot](https://godotengine.org) & I really like building games for the web with [Excalibur.js](https://excaliburjs.com).
-  - I have a dream where by day I'm a full-stack developer, & by night I'm building quality games for the web. 
+- I love video games, & as an extension, I'm also am learning game development. I've built games with [Godot](https://godotengine.org) & I really like building games for the web with [Excalibur.js](https://excaliburjs.com)
+  - I have a dream where by day I'm a full-stack developer, & by night I'm building quality games for the web
 - I really like to workout. In fact, I used to weight 290 lbs & I was able to lose 90 lbs... granted, I've put back about 40 lbs of happy weight since meeting & then marring my wife 😅
 - I am also deeply interested in the moden web browser. I believe it to be the most important & facinating run time. These browsers are so powerful & the level of backwards compatability & ubiquity offered by them is paramount
 
@@ -53,6 +54,19 @@ When it comes to **backend**, I'm more _framework-agnostic_—I prioritize gaini
 I'm best reached on LinkedIn or email: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-m-wolfe/) [![Email](https://img.shields.io/badge/GMX%20Mail-004A99?style=flat-square&logo=mail.ru&logoColor=white)](mailto:caleb-wolfe@gmx.com)
 
 ## A Few Projects
+
+- 💍[Wedding Website](https://github.com/caleb-wo/WeddingWebsite) <sup>full-stack</sup>
+  - **Purpose**: made for my wedding. It was shared to my family & friends (about 130 invites). It had a gallery & schedule & pointed users our registry & RSVP form
+  - **Tooling**: Java, Spring Boot/MVC, Thymeleaf, web languages
+- 🦸🏻‍♂️[Hero Hub](https://github.com/roger18gm/hero-hub) <sup>full-stack</sup>
+  - **Purpose**: I made with was good friend & classmate. It's a hero encyclopedia tool. Here is the site [hero-hub.dev](https://hero-hub-37w.pages.dev) (may not be up). Check it out, try searching "Hulk"
+  - **Tooling**: Vanilla Javascript w/ Vite, Java, Spring, initially hosted on Render via a Docker image
+- 🛡️[Udemy Angular Course](https://www.udemy.com/share/107fKM3@8oOsqdl-5L6cDJHaYQX41CqCJ1qDKAaIXqO2ilYHTVoqAJSa5ip7TUs6dMGYDE-veQ==/) <sup>frontend</sup>
+  - **Purpose**: Angular has been the framework I've always been interested in. I held off learning it because I wanted to learn vanilla web dev first. Now, I feal ready to adopt a framework & I've gone with Angular. I **love** it.
+  - **Projects**: [Appointment App](https://github.com/caleb-wo/appointment-app), [Hotel Reservation App](https://github.com/caleb-wo/hotel-app)
+- 📱[iOS Weather App](https://github.com/caleb-wo/WeatherApp) <sup>mobile</sup>
+  - **Purpose**: When I started learning iOS development & Swift/SwiftUI this was the project I made to solidify my understanding. It is a weather app which fetches weather for the next 3 days (3 days is the API free tier limit)
+  - **Tooling**: Xcode, Swift, SwiftUI, SwiftData
 
 
 
