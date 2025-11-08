@@ -25,14 +25,21 @@ When it comes to **backend**, I'm more _framework-agnostic_—I prioritize gaini
 
 ## Who am I?
 
-<img src="/assets/250529_CalebWolfe_008_NG.jpg" width="300" alt="Portrait of Caleb Wolfe" style="float: right; margin-left: 15px;">
-
-- Passionate about making clean & performant applications both on web & mobile
-- Always learning! Sometimes to fault 😅. I've definitely fallen victim to shiney-object-syndrome, but I've found both passion & a home in Angular & iOS Development
-- On any given day, you'd find me, programming for a project, learning a new technology, attending BYU–Idaho for classes or work, & spending time with my wonderful wife
-- Programming languages & tools in order of proficiency: 
-  - Typescript, web languages, Angular, SwiftUI, Java, Python, Spring Framework, C#, & Bash
-
+<table>
+  <tr>
+    <td>
+      <ul>
+  			<li>Passionate about making clean & performant applications both on web & mobile</li>
+  			<li>Always learning! Sometimes to fault 😅. I've definitely fallen victim to shiney-object-syndrome, but I've found both passion & a home in Angular & iOS Development</li>
+  			<li>On any given day, you'd find me, programming for a project, learning a new technology, attending BYU–Idaho for classes or work, & spending time with my wonderful wife</li>
+  			<li>Programming languages & tools in order of proficiency: Typescript, web languages, Angular, SwiftUI, Java, Python, Spring Framework, C#, & Bash</li>
+  		</ul>
+ 	</td>
+  <td>
+    <img src="/assets/250529_CalebWolfe_008_NG.jpg" width="300" alt="Portrait of Caleb Wolfe">
+   </td>
+ </tr>
+</table>
 
 ## Off Topic
 
