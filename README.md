@@ -3,8 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-m-wolfe/) [![Email](https://img.shields.io/badge/GMX%20Mail-004A99?style=flat-square&logo=mail.ru&logoColor=white)](mailto:caleb-wolfe@gmx.com)
 
 <hr>
-
-**Aspiring full-stack & mobile developer searching for internship opportunities**. I'm currently learning & focusing on ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)![Bun](https://img.shields.io/badge/Bun-FBF0E4?style=flat-square&logo=bun&logoColor=black), & ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white). 
+**Aspiring full-stack & mobile developer searching for internship opportunities**. I'm currently learning & focusing on the following: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-FBF0E4?style=flat-square&logo=bun&logoColor=black), & ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white). 
 
 I'm a [Software Engineering](https://www.byui.edu/catalog/#/programs/4kNfm-2oZ?bc=true&bcCurrent=Software%20Engineering&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs) student at [BYU–Idaho](https://www.byui.edu) emphasizing in _full-stack web development_. I'm also pursuing the following certificates: [Full-Stack Web Development](https://www.byui.edu/catalog/#/programs/ryocsyCw9?bc=true&bcCurrent=Full%20Stack%20Web%20Development&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs), [Cloud Computing](https://www.byui.edu/catalog/#/programs/BJa0x8tB2?bc=true&bcCurrent=Cloud%20Computing&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs), [IT Fundamentals](https://www.byui.edu/catalog/#/programs/HJqX-0Hc3?bc=true&bcCurrent=IT%20Fundamentals&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs).
 
@@ -12,9 +11,9 @@ I'm a [Software Engineering](https://www.byui.edu/catalog/#/programs/4kNfm-2oZ?b
 
 I LEARN. First & foremost, I love learning. Whether it's a new programming language, professional practice, or whatever, I enjoy learning new things. Right now, I'm learning full-stack web development. I've worked with a decent amount of languages & tools. 
 
-**Frontend-wise**, I'm an Angular developer who's _more than willing_ to learn another framework. 
+👨‍💻**_Frontend-wise_**, I'm an Angular developer who's _more than willing_ to learn another framework. 
 
-When it comes to **backend**, right now I'm _framework-agnostic_—I'm prioritizing gaining an understanding of design patterns and clean code principles, so I can leverage most tools to build successful applications. With that said, I've touched Java/Spring, Ruby/Ruby on Rails, & I have plans to learn Laravel & a backend JavaScript framework (TBD).
+When it comes to ⚙️**_backend_**, right now I'm _framework-agnostic_—I'm prioritizing gaining an understanding of design patterns and clean code principles, so I can leverage most tools to build successful applications. With that said, I've touched Java/Spring, Ruby/Ruby on Rails, & I have plans to learn Laravel & a backend JavaScript framework (TBD).
 
 | **Category**  | **Skills/Tools**                                             |
 | :-----------: | ------------------------------------------------------------ |
