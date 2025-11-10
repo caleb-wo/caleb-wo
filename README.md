@@ -1,5 +1,5 @@
 # Caleb Wolfe
-![BYU-Idaho B.S. SE](https://img.shields.io/badge/BYU--Idaho-B.S.%20Software%20Engineering-blue?style=for-the-badge&logoColor=white) <sup>Junior</sup>
+![BYU-Idaho B.S. SE](https://img.shields.io/badge/BYU--Idaho-B.S.%20Software%20Engineering-blue?style=for-the-badge&logoColor=white) <sub>(Junior)</sub>
 
 **Software Engineering Student | Full-Stack & iOS Development Focus**
 
