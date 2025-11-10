@@ -3,8 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-m-wolfe/) [![Email](https://img.shields.io/badge/GMX%20Mail-004A99?style=flat-square&logo=mail.ru&logoColor=white)](mailto:caleb-wolfe@gmx.com)
 
 <hr>
-
-**Aspiring full-stack & mobile developer searching for internship opportunities**. I'm currently learning & focusing on the following: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-FBF0E4?style=flat-square&logo=bun&logoColor=black), & ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white). 
+**Aspiring full-stack developer searching for internship opportunities**. I'm currently learning & focusing on the following: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-FBF0E4?style=flat-square&logo=bun&logoColor=black), & ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white). 
 
 
 I'm a [Software Engineering](https://www.byui.edu/catalog/#/programs/4kNfm-2oZ?bc=true&bcCurrent=Software%20Engineering&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs) student at [BYU–Idaho](https://www.byui.edu) emphasizing in _full-stack web development_. I'm also pursuing the following certificates: [Full-Stack Web Development](https://www.byui.edu/catalog/#/programs/ryocsyCw9?bc=true&bcCurrent=Full%20Stack%20Web%20Development&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs), [Cloud Computing](https://www.byui.edu/catalog/#/programs/BJa0x8tB2?bc=true&bcCurrent=Cloud%20Computing&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs), [IT Fundamentals](https://www.byui.edu/catalog/#/programs/HJqX-0Hc3?bc=true&bcCurrent=IT%20Fundamentals&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs).
@@ -21,9 +20,9 @@ When it comes to ⚙️ **_backend_**, I claim _framework-agnosticism_—I'm pri
 | :-----------: | ------------------------------------------------------------ |
 | **Languages** | TypeScript, JavaScript, Swift, Java, Python, C#              |
 | **Frontend**  | Angular, SwiftUI, Web Languages (HTML/CSS), _whatever's needed_ |
-|  **Backend**  | _Whatever's needed_: Spring, Rails, NestJS, Laravel, etc.    |
+|  **Backend**  | _Whatever's needed_: Spring, NestJS, etc.                    |
 | **Learning**  | Angular, NestJS, iOS Development                             |
-|   **Cloud**   | Tools explored/lightly used (**eager for professional deep dive**): ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) |
+|   **Cloud**   | Tools explored/lightly used (**eager for professional deep dive**): ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) |
 
 ## Who am I? 😎
 
