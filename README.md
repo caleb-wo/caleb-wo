@@ -13,9 +13,9 @@ I'm a [Software Engineering](https://www.byui.edu/catalog/#/programs/4kNfm-2oZ?b
 
 I LEARN. First & foremost, I love learning. Whether it's a new programming language, professional practice, or whatever, I enjoy learning new things. Right now, I'm learning full-stack web development. I've worked with a decent amount of languages & tools. 
 
-👨‍💻**_Frontend-wise_**, I'm an Angular developer who's _more than willing_ to learn another framework. 
+👨‍💻 **_Frontend-wise_**, I'm an Angular developer who's _more than willing_ to learn another framework. 
 
-When it comes to ⚙️**_backend_**, I claim _framework-agnosticism_—I'm prioritizing gaining an understanding of design patterns and clean code principles, so I can leverage most tools to build successful applications. With that said, I've touched Java/Spring, Ruby/Ruby on Rails, & I'm currently learning NestJS (I want a JavaScript backend option + I _love_ TypeScript).
+When it comes to ⚙️ **_backend_**, I claim _framework-agnosticism_—I'm prioritizing gaining an understanding of design patterns and clean code principles, so I can leverage most tools to build successful applications. With that said, I've touched Java/Spring, Ruby/Ruby on Rails, & I'm currently learning NestJS (I want a JavaScript backend option + I _love_ TypeScript).
 
 | **Category**  | **Skills/Tools**                                             |
 | :-----------: | ------------------------------------------------------------ |
