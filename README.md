@@ -52,18 +52,18 @@ I'm best reached on _LinkedIn_ or _email_: [![LinkedIn](https://img.shields.io/b
 
 ## A Few Projects 🦾
 
-- 💍[Wedding Website](https://github.com/caleb-wo/WeddingWebsite) <sup>full-stack</sup>
-  - **Purpose**: made for my wedding. It was shared to my family & friends (about 130 invites). It has a gallery & schedule & pointed users our registry & RSVP form
-  - **Tooling**: Java, Spring Boot/MVC, Thymeleaf, web languages. Hosted on ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-- 🦸🏻‍♂️[Hero Hub](https://github.com/roger18gm/hero-hub) <sup>full-stack</sup>
-  - **Purpose**: I made this website with a good friend & classmate. It's a hero encyclopedia tool. Here is the site [hero-hub.dev](https://hero-hub-37w.pages.dev) (may not be up at the time you open this). Check it out—try searching "Hulk"
-  - **Tooling**: Vanilla Javascript w/ Vite, Java, & Spring backend. Initially hosted on Render via a Docker image
 - 🛡️[Udemy Angular Course](https://www.udemy.com/share/107fKM3@8oOsqdl-5L6cDJHaYQX41CqCJ1qDKAaIXqO2ilYHTVoqAJSa5ip7TUs6dMGYDE-veQ==/) <sup>frontend</sup>
   - **Purpose**: Angular has been the framework I've always been interested in. I held off learning it because I wanted to learn vanilla web dev first. Now, I feel ready to adopt a framework & I've gone with Angular. I've enrolled in this class & it's been a blast. Long story short, I **love** it
   - **Projects**: 📅[Appointment App](https://github.com/caleb-wo/appointment-app), 🏨[Hotel Reservation App](https://github.com/caleb-wo/hotel-app)
+- 💍[Wedding Website](https://github.com/caleb-wo/WeddingWebsite) <sup>full-stack</sup>
+  - **Purpose**: made for my wedding. It was shared to my family & friends (about 130 invites). It has a gallery & schedule & pointed users our registry & RSVP form
+  - **Tooling**: Java, Spring Boot/MVC, Thymeleaf, web languages. Hosted on ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 - 📲[iOS Weather App](https://github.com/caleb-wo/WeatherApp) <sup>mobile</sup>
   - **Purpose**: When I started learning iOS development & Swift/SwiftUI this was the project I made to solidify my understanding. It is a weather app which fetches weather for the next 3 days (3 days is the API free tier limit)
   - **Tooling**: Xcode, Swift, SwiftUI, SwiftData
+- 🦸🏻‍♂️[Hero Hub](https://github.com/roger18gm/hero-hub) <sup>full-stack</sup>
+  - **Purpose**: I made this website with a good friend & classmate. It's a hero encyclopedia tool. Here is the site [hero-hub.dev](https://hero-hub-37w.pages.dev) (may not be up at the time you open this). Check it out—try searching "Hulk"
+  - **Tooling**: Vanilla Javascript w/ Vite, Java, & Spring backend. Initially hosted on Render via a Docker image
 
 ## Off Topic 🏋️‍♂️
 
