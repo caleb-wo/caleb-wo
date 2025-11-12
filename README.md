@@ -1,9 +1,10 @@
 # Caleb Wolfe
 ![BYU-Idaho B.S. SE](https://img.shields.io/badge/BYU--Idaho-B.S.%20Software%20Engineering-blue?style=for-the-badge&logoColor=white) <sub>(Junior)</sub>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-m-wolfe/) [![Email](https://img.shields.io/badge/GMX%20Mail-004A99?style=flat-square&logo=mail.ru&logoColor=white)](mailto:caleb-wolfe@gmx.com)
+
 **Software Engineering Student | Full-Stack & iOS Development Focus**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-m-wolfe/) [![Email](https://img.shields.io/badge/GMX%20Mail-004A99?style=flat-square&logo=mail.ru&logoColor=white)](mailto:caleb-wolfe@gmx.com)
 
 <hr>
 
