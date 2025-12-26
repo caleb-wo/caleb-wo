@@ -18,15 +18,15 @@ In the SaaS world, I have a strategic edge I'm sharpening: I have the technical 
 
 Key Experience & Strengths:
 
-● Customer Experience @ BYU–Idaho: Manage interdepartmental relations, set strategic goals, and report on key performance metrics
+- 📊 **Customer Experience @ BYU–Idaho**: Manage interdepartmental relations, set strategic goals, and report on key performance metrics
 
-● Technical Fluency: Growing proficiency in Software Engineering principles; I understand the basics of how the products I'll sell are built
+- 📚 **Technical Fluency**: Growing proficiency in Software Engineering principles; I understand the basics of how the products I'll sell are built
 
-● Relationship Management: Proven ability to build trust, tailor solutions, and foster long-term professional partnerships
+- 🤝 **Relationship Management**: Proven ability to build trust, tailor solutions, and foster long-term professional partnerships
 
-● Goal-Oriented: I thrive in environments where hard work is rewarded by measurable success
+- 🎯 **Goal-Oriented**: I thrive in environments where hard work is rewarded by measurable success
 
-★ Current Goal: I am actively seeking an entry-level SDR/BDR role or internship where I can leverage my technical background to help tech companies scale
+- 🥅 **Current Goal**: I am actively seeking an entry-level SDR/BDR role or internship where I can leverage my technical background to help tech companies scale
 
 To connect with me, shoot me an email & connect on LinkedIn! The rest of this page is dedicated to my developer skills, focuses and interests.
 
