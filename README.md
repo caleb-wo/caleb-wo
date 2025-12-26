@@ -3,15 +3,31 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-m-wolfe/) [![Email](https://img.shields.io/badge/GMX%20Mail-004A99?style=flat-square&logo=mail.ru&logoColor=white)](mailto:caleb-wolfe@gmx.com)
 
-**Software Engineering Student | Full-Stack & iOS Development Focus**
+**Software Engineering student with a certificate in Professional Selling at BYU-Idaho**
 
 
 <hr>
 
-**Aspiring full-stack developer searching for internship opportunities**. I'm currently learning & focusing on the following: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-FBF0E4?style=flat-square&logo=bun&logoColor=black), & ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black).
+**Aspiring Tech SDR searching for internship opportunities**. Although I'm pursuing sales, I love development & I'm currently learning & focusing on the following: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-FBF0E4?style=flat-square&logo=bun&logoColor=black), & ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black).
 
 
-I'm a [Software Engineering](https://www.byui.edu/catalog/#/programs/4kNfm-2oZ?bc=true&bcCurrent=Software%20Engineering&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs) student at [BYU–Idaho](https://www.byui.edu) emphasizing in _full-stack web development_. I'm also pursuing the following certificates: [Full-Stack Web Development](https://www.byui.edu/catalog/#/programs/ryocsyCw9?bc=true&bcCurrent=Full%20Stack%20Web%20Development&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs), [Cloud Computing](https://www.byui.edu/catalog/#/programs/BJa0x8tB2?bc=true&bcCurrent=Cloud%20Computing&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs), [IT Fundamentals](https://www.byui.edu/catalog/#/programs/HJqX-0Hc3?bc=true&bcCurrent=IT%20Fundamentals&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs).
+I'm a [Software Engineering](https://www.byui.edu/catalog/#/programs/4kNfm-2oZ?bc=true&bcCurrent=Software%20Engineering&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs) student at [BYU–Idaho](https://www.byui.edu) emphasizing in _full-stack web development_. I am transitioning into Tech Sales. While I love the logic of code, I found my true energy comes from building relationships, hitting targets, and driving growth. I'm also pursuing the following certificates: [Professional Selling](https://www.byui.edu/catalog/#/programs/BJaDxjIHz?bc=true&bcCurrent=Professional%20Selling&bcGroup=Department%20of%20Marketing&bcItemType=programs), [Full-Stack Web Development](https://www.byui.edu/catalog/#/programs/ryocsyCw9?bc=true&bcCurrent=Full%20Stack%20Web%20Development&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs), [IT Fundamentals](https://www.byui.edu/catalog/#/programs/HJqX-0Hc3?bc=true&bcCurrent=IT%20Fundamentals&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs).
+
+## Why a Technical SDR? 
+In the SaaS world, I have a strategic edge I'm sharpening: I have the technical depth to understand the product and the communication skills to sell the vision. In fact, I still program for fun during some of my leisure time!
+
+Key Experience & Strengths:
+● Customer Experience @ BYU–Idaho: Manage interdepartmental relations, set strategic goals, and report on key performance metrics
+
+● Technical Fluency: Growing proficiency in Software Engineering principles; I understand the basics of how the products I'll sell are built
+
+● Relationship Management: Proven ability to build trust, tailor solutions, and foster long-term professional partnerships
+
+● Goal-Oriented: I thrive in environments where hard work is rewarded by measurable success
+
+★ Current Goal: I am actively seeking an entry-level SDR/BDR role or internship where I can leverage my technical background to help tech companies scale
+
+To connect with me, please see my email & connect on LinkedIn! The rest of this page is dedicated to my developer skills, focuses and interests.
 
 ## What do I do? 💻
 
