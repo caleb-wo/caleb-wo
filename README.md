@@ -17,6 +17,7 @@ I'm a [Software Engineering](https://www.byui.edu/catalog/#/programs/4kNfm-2oZ?b
 In the SaaS world, I have a strategic edge I'm sharpening: I have the technical depth to understand the product and the communication skills to sell the vision. In fact, I still program for fun during some of my leisure time!
 
 Key Experience & Strengths:
+
 ● Customer Experience @ BYU–Idaho: Manage interdepartmental relations, set strategic goals, and report on key performance metrics
 
 ● Technical Fluency: Growing proficiency in Software Engineering principles; I understand the basics of how the products I'll sell are built
