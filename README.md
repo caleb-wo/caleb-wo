@@ -28,7 +28,11 @@ Key Experience & Strengths:
 
 ★ Current Goal: I am actively seeking an entry-level SDR/BDR role or internship where I can leverage my technical background to help tech companies scale
 
-To connect with me, please see my email & connect on LinkedIn! The rest of this page is dedicated to my developer skills, focuses and interests.
+To connect with me, shoot me an email & connect on LinkedIn! The rest of this page is dedicated to my developer skills, focuses and interests.
+
+## Contact 🤝
+
+I'm best reached on _LinkedIn_ or _email_: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-m-wolfe/) [![Email](https://img.shields.io/badge/GMX%20Mail-004A99?style=flat-square&logo=mail.ru&logoColor=white)](mailto:caleb-wolfe@gmx.com)
 
 ## What do I do? 💻
 
@@ -52,21 +56,14 @@ When it comes to ⚙️ **_backend_**, I claim _framework-agnosticism_—I'm pri
   <tr>
     <td>
       <ul>
-  			<li>Passionate about <strong>making clean & performant applications on both web & mobile</strong>, whether on a team or working individually</li>
-  			<li>Always learning! Sometimes to a fault 😅. In the past, I've definitely fallen victim to shiney-object-syndrome, but I've found both passion & a home in <strong>Angular, full-stack development, and iOS development</strong></li>
-  			<li>On any given day, you'd find me, programming for a project, learning a new technology, attending BYU–Idaho for classes or work, & spending time with my wonderful wife</li>
-  			<li>Programming languages & tools in order of proficiency: <strong>Typescript, web languages, Angular, Swift & SwiftUI, Java, Python, Spring Framework, C#, & Bash</strong></li>
-  		</ul>
- 	</td>
-  <td>
-    <img src="/assets/250529_CalebWolfe_008_NG.jpg" alt="Portrait of Caleb Wolfe" width="550">
-   </td>
- </tr>
+        <li>🚀 <strong>The Mission:</strong> Software Engineering student at BYU–Idaho pivoting into <strong>Tech Sales</strong>. I seek to specialize in bridging the gap between complex technical solutions and tangible business value.</li>
+        <li>🛠️ <strong>The Strategic Edge:</strong> I offer the technical depth to understand the product and the communication skills to sell the vision. While I'm pursuing a career as an <strong>SDR</strong>, I still enjoy building with <strong>Angular, TypeScript, and more</strong>.</li>
+        <li>🤝 <strong>People-First:</strong> On any given day, you'll find me managing professional relationships at BYU–I, sharpening my <strong>Professional Selling</strong> tactics, or spending time with my wonderful wife.</li>
+        <li>💻 <strong>Technical Fluency:</strong> Experienced in <strong>TypeScript, Angular, Swift/SwiftUI, Java, Python, and Bash scripting</strong>. I speak the language of the engineer and thrive in a goal-oriented professional environment.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
-
-## Contact 🤝
-
-I'm best reached on _LinkedIn_ or _email_: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-m-wolfe/) [![Email](https://img.shields.io/badge/GMX%20Mail-004A99?style=flat-square&logo=mail.ru&logoColor=white)](mailto:caleb-wolfe@gmx.com)
 
 ## A Few Projects 🦾
 
