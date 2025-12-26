@@ -83,9 +83,9 @@ When it comes to ⚙️ **_backend_**, I claim _framework-agnosticism_—I'm pri
 ## Off Topic 🏋️‍♂️
 
 - I love video games, & as an extension, I'm also learning game development. I've built games with [Godot](https://godotengine.org) & I really like building games for the web with [Excalibur.js](https://excaliburjs.com)
-  - I have a dream where by day I'm a full-stack developer, & by night I'm building quality games for the web
+  - I have a dream where by day I'm a tech sales professional, & by night I'm building quality games for the web
 - I really like to workout. In fact, I used to weigh 290 lbs & I was able to lose 90 lbs... granted, I've put back about 40 lbs of happy-weight since meeting & marring my wife 😅
-- I am also deeply interested in the moden web browser. I believe it to be the most important & facinating runtime. These browsers are so powerful & the level of backwards compatability & ubiquity offered by them is paramount. My ultimate _long-term goal_ is to become an expert in browser performance and architecture, capable of building applications that push the boundaries of what the web platform can natively achieve
+- I am also deeply interested in the moden web browser. I believe it to be the most important & facinating runtime. These browsers are so powerful & the level of backwards compatability & ubiquity offered by them is paramount. A _long-term goal_ of mine is to become an expert in browser performance and architecture, capable of building applications that push the boundaries of what the web platform can natively achieve
 - Lastly I'm a total nerd & love Marvle & DC Comics, Start Wars, & so much more
 
 
