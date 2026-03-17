@@ -11,7 +11,7 @@
 **Aspiring tech Project Manager or SDR searching for internship opportunities**. Although I'm pursuing project management & sales, I love development & I'm currently learning & focusing on the following: ![Meteor.js](https://img.shields.io/badge/Meteor.js-DE4F4F?style=flat-square&logo=meteor&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-FBF0E4?style=flat-square&logo=bun&logoColor=black), & ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black).
 
 
-As mentioned I'm a [Software Engineering](https://www.byui.edu/catalog/#/programs/4kNfm-2oZ?bc=true&bcCurrent=Software%20Engineering&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs) student at [BYU–Idaho](https://www.byui.edu) transitioning into Tech Sales or Project Management. While I love the logic of code, I found my true energy comes from for with people, building relationships and driving growth.
+As mentioned I'm a [Software Engineering](https://www.byui.edu/catalog/#/programs/4kNfm-2oZ?bc=true&bcCurrent=Software%20Engineering&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs) student at [BYU–Idaho](https://www.byui.edu) transitioning into Tech Sales or Project Management. While I love the logic of code, I found my true energy comes from working with people, building relationships, & driving growth.
 
 ## Why the Pivot? 
 In the SaaS world, I have a strategic edge I'm sharpening: I have the technical fluency to understand the product/project and the communication skills to manage teams & sell the vision. I still love tech & continue to program for fun during some of my leisure time!
@@ -56,10 +56,9 @@ When it comes to ⚙️ **_backend_**, I claim _framework-agnosticism_—I'm pri
   <tr>
     <td>
       <ul>
-        <li>🚀 <strong>The Mission:</strong> Software Engineering student at BYU–Idaho pivoting into <strong>Tech Sales</strong>. I seek to specialize in bridging the gap between complex technical solutions and tangible business value.</li>
-        <li>🛠️ <strong>The Strategic Edge:</strong> I offer the technical depth to understand the product and the communication skills to sell the vision. While I'm pursuing a career as an <strong>SDR</strong>, I still enjoy building with <strong>Angular, TypeScript, and more</strong>.</li>
-        <li>🤝 <strong>People-First:</strong> On any given day, you'll find me managing professional relationships at BYU–I, sharpening my <strong>Professional Selling</strong> tactics, or spending time with my wonderful wife.</li>
-        <li>💻 <strong>Technical Fluency:</strong> Experienced in <strong>TypeScript, Angular, Swift/SwiftUI, Java, Python, and Bash scripting</strong>. I speak the language of the engineer and thrive in a goal-oriented professional environment.</li>
+        <li>🚀 <strong>The Mission:</strong> Software Engineering student at BYU–Idaho pivoting into <strong>Project Management & Tech Sales</strong>. I seek to specialize in bridging the gap between complex technical solutions and business success</li>
+        <li>🤝 <strong>People-First:</strong> On any given day, you'll find me managing projects & building professional relationships at BYU–I or spending time with my wonderful wife.</li>
+        <li>💻 <strong>Technical Fluency:</strong> Experienced in <strong>TypeScript, Angular, Swift/SwiftUI, Java, Python, and Bash scripting</strong>. I speak the language of the engineer and thrive in a goal/people-oriented professional environment.</li>
       </ul>
     </td>
   </tr>
@@ -86,6 +85,7 @@ When it comes to ⚙️ **_backend_**, I claim _framework-agnosticism_—I'm pri
   - I have a dream where by day I'm a tech sales professional, & by night I'm building quality games for the web
 - I really like to workout. In fact, I used to weigh 290 lbs & I was able to lose 90 lbs... granted, I've put back about 40 lbs of happy-weight since meeting & marring my wife 😅
 - I am also deeply interested in the moden web browser. I believe it to be the most important & facinating runtime. These browsers are so powerful & the level of backwards compatability & ubiquity offered by them is paramount. A _long-term goal_ of mine is to become an expert in browser performance and architecture, capable of building applications that push the boundaries of what the web platform can natively achieve
+- I also trade crypto!
 - Lastly I'm a total nerd & love Marvle & DC Comics, Start Wars, & so much more
 
 
