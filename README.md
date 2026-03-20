@@ -7,7 +7,13 @@
 
 
 <hr>
-**Aspiring tech Project Manager or SDR searching for internship opportunities**. Although I'm pursuing project management & sales, I love development & I'm currently learning & focusing on the following: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-00B4FF?style=flat-square&logo=quasar&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-FBF0E4?style=flat-square&logo=bun&logoColor=black), & ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black).
+**Aspiring tech Project Manager or SDR searching for internship opportunities.**
+
+Although I'm pursuing project management & sales, I love development & I'm currently learning & focusing on the following:
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-00B4FF?style=flat-square&logo=quasar&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-FBF0E4?style=flat-square&logo=bun&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+As mentioned, I'm a Software Engineering student at BYU–Idaho transitioning into Tech Sales or Project Management. While I love the logic of code, I found my true energy comes from working with people, building relationships, & driving growth.
 
 
 As mentioned I'm a [Software Engineering](https://www.byui.edu/catalog/#/programs/4kNfm-2oZ?bc=true&bcCurrent=Software%20Engineering&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs) student at [BYU–Idaho](https://www.byui.edu) transitioning into Tech Sales or Project Management. While I love the logic of code, I found my true energy comes from working with people, building relationships, & driving growth.
