@@ -3,12 +3,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-m-wolfe/) [![Email](https://img.shields.io/badge/GMX%20Mail-004A99?style=flat-square&logo=mail.ru&logoColor=white)](mailto:caleb-wolfe@gmx.com)
 
-**Software Engineering student with a at BYU-Idaho**
+**Software Engineering student at BYU-Idaho**
 
 
 <hr>
-
-**Aspiring tech Project Manager or SDR searching for internship opportunities**. Although I'm pursuing project management & sales, I love development & I'm currently learning & focusing on the following: ![Meteor.js](https://img.shields.io/badge/Meteor.js-DE4F4F?style=flat-square&logo=meteor&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-FBF0E4?style=flat-square&logo=bun&logoColor=black), & ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black).
+**Aspiring tech Project Manager or SDR searching for internship opportunities**. Although I'm pursuing project management & sales, I love development & I'm currently learning & focusing on the following: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-00B4FF?style=flat-square&logo=quasar&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-FBF0E4?style=flat-square&logo=bun&logoColor=black), & ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black).
 
 
 As mentioned I'm a [Software Engineering](https://www.byui.edu/catalog/#/programs/4kNfm-2oZ?bc=true&bcCurrent=Software%20Engineering&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs) student at [BYU–Idaho](https://www.byui.edu) transitioning into Tech Sales or Project Management. While I love the logic of code, I found my true energy comes from working with people, building relationships, & driving growth.
@@ -30,39 +29,17 @@ Key Experience & Strengths:
 
 To connect with me, shoot me an email & connect on LinkedIn! The rest of this page is dedicated to my developer skills, focuses and interests.
 
+# Long Term Goal 🔭
+
+I plan to get a **Master's degree of Applied Artificial Intelligence at Utah Valley University.** This is because I ultimately want to become an _AI Orchestrator & AI Project Manager_ who leads AI agents & specializes in managing & building agentic workflows. This is the field in which I want to become a master. These are things I'm truly passionate about. 
+
+Right now I'm working on building my own projects & applications utilizing things like Antigravity, Google Gemini, Google CLI, & Cursor (As you can tell, I'm a fan of Google 😅). I'll soon be tracking those projects here. I am deeply excited at the idea that I can be the stakeholder & project manager of a team of AI specialists.
+
+I’m currently in the 'learning by doing' phase—breaking things, building agents, and figuring out how to steer the ship. I can’t wait to see where this orchestration takes me. For me, it’s not just about the code anymore; it’s about the strategy behind the system. I'm building the skills today so I can lead the autonomous teams of tomorrow.
+
 ## Contact 🤝
 
 I'm best reached on _LinkedIn_ or _email_: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-m-wolfe/) [![Email](https://img.shields.io/badge/GMX%20Mail-004A99?style=flat-square&logo=mail.ru&logoColor=white)](mailto:caleb-wolfe@gmx.com)
-
-## What do I do? 💻
-
-I LEARN. First & foremost, I love learning. Whether it's a new programming language, professional practice, or whatever, I enjoy learning new things. Right now, I'm learning full-stack web development. I've worked with a decent amount of languages & tools. 
-
-👨‍💻 **_Frontend-wise_**, I'm an Angular developer who's _more than willing_ to learn another framework. 
-
-When it comes to ⚙️ **_backend_**, I claim _framework-agnosticism_—I'm prioritizing gaining an understanding of design patterns and clean code principles, so I can leverage most tools to build successful applications. With that said, I've touched Java/Spring, Ruby/Ruby on Rails, & I'm currently learning NestJS (I want a JavaScript backend option + I _love_ TypeScript).
-
-| **Category**  | **Skills/Tools**                                             |
-| :-----------: | ------------------------------------------------------------ |
-| **Languages** | TypeScript, JavaScript, Swift, Java, Python, C#              |
-| **Frontend**  | Angular, SwiftUI, Web Languages (HTML/CSS), _whatever's needed_ |
-|  **Backend**  | _Whatever's needed_: Spring, NestJS, etc.                    |
-| **Learning**  | Angular, NestJS, iOS Development                             |
-|   **Cloud**   | Tools explored/lightly used (**eager for professional deep dive**): ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) |
-
-## Who am I? 😎
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🚀 <strong>The Mission:</strong> Software Engineering student at BYU–Idaho pivoting into <strong>Project Management & Tech Sales</strong>. I seek to specialize in bridging the gap between complex technical solutions and business success</li>
-        <li>🤝 <strong>People-First:</strong> On any given day, you'll find me managing projects & building professional relationships at BYU–I or spending time with my wonderful wife.</li>
-        <li>💻 <strong>Technical Fluency:</strong> Experienced in <strong>TypeScript, Angular, Swift/SwiftUI, Java, Python, and Bash scripting</strong>. I speak the language of the engineer and thrive in a goal/people-oriented professional environment.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ## A Few Projects 🦾
 
@@ -82,10 +59,9 @@ When it comes to ⚙️ **_backend_**, I claim _framework-agnosticism_—I'm pri
 ## Off Topic 🏋️‍♂️
 
 - I love video games, & as an extension, I'm also learning game development. I've built games with [Godot](https://godotengine.org) & I really like building games for the web with [Excalibur.js](https://excaliburjs.com)
-  - I have a dream where by day I'm a tech sales professional, & by night I'm building quality games for the web
+  - I have a dream where by day I'm a tech professional, & by night I'm building quality games
 - I really like to workout. In fact, I used to weigh 290 lbs & I was able to lose 90 lbs... granted, I've put back about 40 lbs of happy-weight since meeting & marring my wife 😅
-- I am also deeply interested in the moden web browser. I believe it to be the most important & facinating runtime. These browsers are so powerful & the level of backwards compatability & ubiquity offered by them is paramount. A _long-term goal_ of mine is to become an expert in browser performance and architecture, capable of building applications that push the boundaries of what the web platform can natively achieve
-- I also trade crypto!
+- I also trade crypto (I have plans to set up AI agents to manage a crypto wallet)!
 - Lastly I'm a total nerd & love Marvle & DC Comics, Start Wars, & so much more
 
 
