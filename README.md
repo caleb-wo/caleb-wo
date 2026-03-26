@@ -5,13 +5,11 @@
 
 **Software Engineering student at BYU-Idaho**
 
-
 <hr>
-**Aspiring tech Project Manager or SDR searching for internship opportunities.**
 
-Although I'm pursuing project management & sales, I love development & I'm currently learning & focusing on the following:
+**Aspiring tech Project Manager or SDR searching for internship opportunities.** Although I'm pursuing project management & sales, I love development & I'm currently learning & focusing on the following:
 
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B11?style=flat-square&logo=openai&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-FBF0E4?style=flat-square&logo=bun&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Defold](https://img.shields.io/badge/Defold-F29100?style=flat-square&logo=defold&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B11?style=flat-square&logo=openai&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-FBF0E4?style=flat-square&logo=bun&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 As mentioned I'm a [Software Engineering](https://www.byui.edu/catalog/#/programs/4kNfm-2oZ?bc=true&bcCurrent=Software%20Engineering&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs) student at [BYU–Idaho](https://www.byui.edu) transitioning into Tech Sales or Project Management. While I love the logic of code, I found my true energy comes from working with people, building relationships, & driving growth.
 
@@ -80,8 +78,7 @@ I'm best reached on _LinkedIn_ or _email_: [![LinkedIn](https://img.shields.io/b
 
 ## Off Topic 🏋️‍♂️
 
-- I love video games, & as an extension, I'm also learning game development. I've built games with [Godot](https://godotengine.org) & I really like building games for the web with [Excalibur.js](https://excaliburjs.com)
-  - I have a dream where by day I'm a tech professional, & by night I'm building quality games
+- I love video games, & as an extension, I'm also learning game development. I really love building [**Defold**](https://defold.com)!
 - I really like to workout. In fact, I used to weigh 290 lbs & I was able to lose 90 lbs... granted, I've put back about 40 lbs of happy-weight since meeting & marring my wife 😅
 - I also trade crypto (I have plans to set up AI agents to manage a crypto wallet)!
 - Lastly I'm a total nerd & love Marvle & DC Comics, Start Wars, & so much more
