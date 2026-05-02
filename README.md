@@ -5,87 +5,75 @@
 
 **Software Engineering student at BYU-Idaho**
 
-<hr>
-**Aspiring tech Project Manager or SDR searching for internship opportunities.** Although I'm pursuing project management & sales, I love development & I'm currently learning & focusing on the following:
+Hi! My name is Caleb! Thanks for visiting =). This page used to be huge & broke down all of my interests & professional pursuits. I thought it was about time to clean it up a little, & perhaps focus it's content. I'm a senior at BYU–Idaho & I'm set to graduate at the end of this year (2026). 
 
- ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white) ![Deno Deploy](https://img.shields.io/badge/Deno_Deploy-000000?style=flat-square&logo=deno&logoColor=99EEFF) ![Odin](https://img.shields.io/badge/Odin-60A5FA?style=flat-square&logo=odin&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![AI Collaboration](https://img.shields.io/badge/AI%20Collaboration-754ABC?style=flat-square&logo=anthropic&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+Right now, I'm focusing on starting my own saas company; I've been trying to become a successful '_solopreneur_.' I also am deeply interested in the field of Programming Language Research & compiler/interpreter design & implementation. I'm going through Bob Nystrom's "**Crafting Interpreters**," & it's been an incredible read. 
 
-As mentioned I'm a [Software Engineering](https://www.byui.edu/catalog/#/programs/4kNfm-2oZ?bc=true&bcCurrent=Software%20Engineering&bcGroup=Department%20of%20Computer%20Science%20and%20Engineering&bcItemType=programs) student at [BYU–Idaho](https://www.byui.edu) transitioning into Tech Sales or Project Management. While I love the logic of code, I found my true energy comes from working with people, building relationships, & driving growth.
+Additionally, I'm fascinated by AI. I use it to enhance my development speed & enjoyment. I'm a big user of [![Cline](https://img.shields.io/badge/Cline-5B5BD6?style=flat-square&logo=anthropic&logoColor=white)](https://cline.bot) & I'm constantly finding new ways AI can boost my productivity. I would love to work in AI research as well. I'm also interested in Game Development. It's an interest I don't often have time to fully sink my teeth into, but it's there.
 
-## Why the Pivot? 
-In the SaaS world, I have a strategic edge I'm sharpening: I have the technical fluency to understand the product/project and the communication skills to manage teams & sell the vision. I still love tech & continue to program for fun during some of my leisure time!
+## Current Focuses
 
-Key Experience & Strengths:
+Here are my main focuses & passions along with some current projects or focuses. Take a look! 
 
-- 📊 **Customer Experience @ BYU–Idaho**: Manage interdepartmental relations, set strategic goals, and report on key performance metrics
+### Project Management 📈
 
-- 📚 **Technical Fluency**: Growing proficiency in Software Engineering principles; I understand the basics of how the products I'll sell are built
+This is my _professional_ focus. I believe that in the work force, it is in these positions that I'll thrive & do my best work. I learned this by actually being a project manager for the BYU–Idaho Support Center. I loved the work & enjoy working with a team to reach project milestones & deadlines.
 
-- 🤝 **Relationship Management**: Proven ability to build trust, tailor solutions, and foster long-term professional partnerships
-
-- 🎯 **Goal-Oriented**: I thrive in environments where hard work is rewarded by measurable success, whether that's a commision or reaching a deadline
-
-- 🥅 **Current Goal**: I am actively seeking an entry-level project management or SDR/BDR role/internship where I can leverage my technical background to help tech companies scale
-
-To connect with me, shoot me an email & connect on LinkedIn! The rest of this page is dedicated to my developer skills, focuses and interests.
-
-# Long Term Goal 🔭 ![MS Applied AI](https://img.shields.io/badge/MS_Applied_AI-UVU-185C33?style=flat-square&logo=intelligencebank&logoColor=white)
-
-I plan to get a **[Master's degree of Applied Artificial Intelligence at Utah Valley University](https://www.uvu.edu/cet/ms-of-applied-ai/?gad_source=1&gad_campaignid=22909631460&gclid=Cj0KCQjwj47OBhCmARIsAF5wUEHbsrcFTXZQ0FTv58fQZLOjopU0hXPEgLSD-jqTUKa5UIsurbaHNhUaAkMpEALw_wcB)**. This is because I ultimately want to become an _AI Orchestrator & AI Project Manager_ who leads AI agents & specializes in managing & building agentic workflows. This is the field in which I want to become a master. These are things I'm truly passionate about. 
-
-Right now I'm working on building my own projects & applications utilizing things like Antigravity, Google Gemini, Google CLI, & Cursor (As you can tell, I'm a fan of Google 😅). I'll soon be tracking those projects here. I am deeply excited at the idea that I can be the stakeholder & project manager of a team of AI specialists.
-
-I’m currently in the 'learning by doing' phase—breaking things, building agents, and figuring out how to steer the ship. I can’t wait to see where this orchestration takes me. For me, it’s not just about the code anymore; it’s about the strategy behind the system. I'm building the skills today so I can lead the autonomous teams of tomorrow.
-
-## Courses & Certifications I'm Pursuing Right Now
-
-- [**Certified Associate in Project Management (CAPM)**](https://www.pmi.org/certifications/certified-associate-capm?utm_job_number=16&utm_region_name=north_america&utm_funnel_stage=customer_acquisition&utm_marketing_channel=paid_media&utm_marketing_subchannel=display_prospecting&utm_start_date=09122024&utm_end_date=12312026&utm_source=google&utm_custom_field_one=capm_pmax_certification_north_america_display&utm_custom_field_two=none&utm_custom_field_three=none&utm_custom_field_four=none&utm_custom_field_five=none&s_kwcid=AL!8620!3!!!!x!!&gad_source=1&gad_campaignid=21719119157&gclid=Cj0KCQjwj47OBhCmARIsAF5wUEF94HoJFlbSfganPmZpT-xz_evFuZUjbQqmOzyI1qDFDQdaKPKrM54aArnwEALw_wcB) ![PMI](https://img.shields.io/badge/PMI-006699?style=flat-square&logo=pmi&logoColor=white)
+- Pursing a [**Certified Associate in Project Management (CAPM)**](https://www.pmi.org/certifications/certified-associate-capm?utm_job_number=16&utm_region_name=north_america&utm_funnel_stage=customer_acquisition&utm_marketing_channel=paid_media&utm_marketing_subchannel=display_prospecting&utm_start_date=09122024&utm_end_date=12312026&utm_source=google&utm_custom_field_one=capm_pmax_certification_north_america_display&utm_custom_field_two=none&utm_custom_field_three=none&utm_custom_field_four=none&utm_custom_field_five=none&s_kwcid=AL!8620!3!!!!x!!&gad_source=1&gad_campaignid=21719119157&gclid=Cj0KCQjwj47OBhCmARIsAF5wUEF94HoJFlbSfganPmZpT-xz_evFuZUjbQqmOzyI1qDFDQdaKPKrM54aArnwEALw_wcB) [![PMI](https://camo.githubusercontent.com/0d1e75db67f43f497b61b171d86e6f4b4112d609211e8a449d83022bd190753d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f504d492d3030363639393f7374796c653d666c61742d737175617265266c6f676f3d706d69266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/0d1e75db67f43f497b61b171d86e6f4b4112d609211e8a449d83022bd190753d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f504d492d3030363639393f7374796c653d666c61742d737175617265266c6f676f3d706d69266c6f676f436f6c6f723d7768697465)
   - Self-studied using "[CAPM Certified Associate in Project Management All-in-One Exam Guide](https://www.barnesandnoble.com/w/capm-certified-associate-in-project-management-all-in-one-exam-guide-james-lee-haner/1142770685)," by James Lee Haner
-- [**AI Engineer Agentic Track: The Complete Agent & MCP Course**](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
-- [**Flutter & Dart - The Complete Guide**](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
 
-### Queued Learning
+### Programming Languages
 
-These are courses & certificates I plan to pursue after the above mentioned.
+This has been a very new & exciting interest of mine. I've always been super interest in PL research & compiles & interpreters. This semester at BYU–Idaho, I've finally taken the leap & I'm now working on making my own language. Check it out, it's called [Mimir](https://github.com/caleb-wo/Mimir). 
 
-- [**AI Video School Complete Beginner to Pro: Veo3, Kling, Sora+**](https://www.udemy.com/course/ai-video-school/) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
+I've loved learning more about this & I'm trying to think of ways to break to the professional work of PL research & design.
 
-## Mid-Carear Goals
+### Solopreneur 👨‍💻
 
-These are course & certifications I want to obtain after I've been in the industry for a year or two. Likely alongside obtaining my Master's degree, which is a 2 year program.
+I have a lot of ideas. This semester I'm finally taking a the leap to implement one of them to try & make my own money. I'm working on a product called "**Fwoosh**." It's not live yet, but when it is, it'll be at [fwoosh.me](/). It's aim is to be a faster & simpler alternative to Linktree. For this project, I'm using the Deno ecosystem. It's my favorite for server-side JS/TS & it perfectly fits my need for edge compute. 
 
-- [**Project Manager Professional (PMP)™**](https://www.pmi.org/certifications/project-management-pmp) ![PMI](https://img.shields.io/badge/PMI-006699?style=flat-square&logo=pmi&logoColor=white)
-- [**PMI Certified Professional in Managing AI (PMI-CPMAI)™**](https://www.pmi.org/certifications/ai-project-management-cpmai) ![PMI](https://img.shields.io/badge/PMI-006699?style=flat-square&logo=pmi&logoColor=white)
+I've been developing this project with VS Code alongside Cline. I treat my AI partner as the Lead Designer. While I handle the main _business_ code, AI handles all the frontend & styling. I love this work flow & it's been helping me move really fast. It's been a masterclass in managing scope & utilizing AI [rules](https://docs.cline.bot/customization/cline-rules) & [skills](https://docs.cline.bot/customization/skills). I've really happy with how many times my agent gets a task done right the first time.
 
-## Contact 🤝
+Tooling being used:
 
-I'm best reached on _LinkedIn_ or _email_: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-m-wolfe/) [![Email](https://img.shields.io/badge/GMX%20Mail-004A99?style=flat-square&logo=mail.ru&logoColor=white)](mailto:caleb-wolfe@gmx.com)
+-   **Deno:** ![Deno](https://img.shields.io/badge/Deno-464646?style=flat-square&logo=deno&logoColor=white)
+    -   **Fresh:** ![Fresh](https://img.shields.io/badge/Fresh-06b6d4?style=flat-square&logo=fresh&logoColor=black)
+    -   **Deno Deploy:** ![Deno Deploy](https://img.shields.io/badge/Deno%20Deploy-464646?style=flat-square&logo=deno&logoColor=white)
+    -   **Deno KV:** ![Deno KV](https://img.shields.io/badge/Deno%20KV-464646?style=flat-square&logo=deno&logoColor=white)
+-   **TypeScript:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+-   **Cline:** ![Cline](https://img.shields.io/badge/Cline-3178C6?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## A Few Projects 🦾
+### Artificial Intelligence
 
-- 🛡️[Udemy Angular Course](https://www.udemy.com/share/107fKM3@8oOsqdl-5L6cDJHaYQX41CqCJ1qDKAaIXqO2ilYHTVoqAJSa5ip7TUs6dMGYDE-veQ==/) <sup>frontend</sup>
-  - **Purpose**: Angular has been the framework I've always been interested in. I held off learning it because I wanted to learn vanilla web dev first. Now, I feel ready to adopt a framework & I've gone with Angular. I've enrolled in this class & it's been a blast. Long story short, I **love** it
-  - **Projects**: 📅[Appointment App](https://github.com/caleb-wo/appointment-app), 🏨[Hotel Reservation App](https://github.com/caleb-wo/hotel-app), 💳[Ecommerce App](https://github.com/caleb-wo/ecommerce-animal-painting-storefront)
-- 💍[Wedding Website](https://github.com/caleb-wo/WeddingWebsite) <sup>full-stack</sup>
-  - **Purpose**: made for my wedding. It was shared to my family & friends (about 130 invites). It has a gallery & schedule & pointed users our registry & RSVP form
-  - **Tooling**: Java, Spring Boot/MVC, Thymeleaf, web languages. Hosted on ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-- 📲[iOS Weather App](https://github.com/caleb-wo/WeatherApp) <sup>mobile</sup>
-  - **Purpose**: When I started learning iOS development & Swift/SwiftUI this was the project I made to solidify my understanding. It is a weather app which fetches weather for the next 3 days (3 days is the API free tier limit)
-  - **Tooling**: Xcode, Swift, SwiftUI, SwiftData
-- 🦸🏻‍♂️[Hero Hub](https://github.com/roger18gm/hero-hub) <sup>full-stack</sup>
-  - **Purpose**: I made this website with a good friend & classmate. It's a hero encyclopedia tool. Here is the site [hero-hub.dev](https://hero-hub-37w.pages.dev) (may not be up at the time you open this). Check it out—try searching "Hulk"
-  - **Tooling**: Vanilla Javascript w/ Vite, Java, & Spring backend. Initially hosted on Render via a Docker image
+Right now, I'm hyperfixated on ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)![AI Collaboration](https://img.shields.io/badge/AI%20Collaboration-8E75FF?style=flat-square&logo=googlegemini&logoColor=white). I really do enjoy having an AI accomplice—so to speak. It's such an addicting workflow & it feels like I'm a technical project manager leading the project & directing AI assistants. In fact, here's a screenshot of what my current work space looks like. It's from my current project Fwoosh:
 
-## Off Topic 🏋️‍♂️
+![My workspace](./assets/workspace_example.png)
 
-- I love video games, & as an extension, I'm also learning game development. I really love building [**Defold**](https://defold.com)!
-- I really like to workout. In fact, I used to weigh 290 lbs & I was able to lose 90 lbs... granted, I've put back about 40 lbs of happy-weight since meeting & marring my wife 😅
-- I also trade crypto (I have plans to set up AI agents to manage a crypto wallet)!
-- Lastly I'm a total nerd & love Marvle & DC Comics, Start Wars, & so much more
+# Coding Proficiencies
 
+### Tier 1 🏅
 
+These are languages that I enjoy coding in most & am often working with.
 
+- TypeScript/JavaScript
+- Odin
+- Lua & Luau
 
+### Tier 2 🥈
 
+These are languages that I've done work with _in the past_, so I'm rusty. That said, I'm confident enough that if I needed to re-learn or reacquaint myself, I'd be able to in just a few hours.
 
+- C
+- Java
+- C#
+- Python
+- Haxe
 
+### Tier 3 🥉
+
+These are programming languages that I'd love to learn. Some, I already have plans to learn!
+
+- Rust
+- OCaml
+- Haskell
+- LLVM IR
