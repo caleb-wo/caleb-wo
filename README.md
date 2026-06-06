@@ -44,7 +44,7 @@ These are secondary technologies I want to eventually master to suplement my eng
 > Note: when I'm trying to learn, I do not use AI to write any code or build any projects. I make custom [Gems](https://gemini.google/overview/gems/) which I use as tutors to expand my studies & generate lessons.
 >
 > - [Cline](https://cline.bot/)
->   - Extended with automated workflows & local & global [Skills](https://docs.cline.bot/customization/skills) & [Rules](https://docs.cline.bot/customization/cline-rules).
+>   - Extended with automated workflows, local & global [Skills](https://docs.cline.bot/customization/skills), & [Rules](https://docs.cline.bot/customization/cline-rules).
 > - Gemini AI Pro
 
 ### 🩶 Tier Two:
