@@ -30,7 +30,7 @@ These are skills that I'm **confident** in or are **actively using / learning**.
 
 #### Planning to Learn
 
-These are secondary technologies I want to eventually master to supllmement my engineering & Flutter/Dart skills.
+These are secondary technologies I want to eventually master to suplement my engineering & Flutter/Dart skills.
 
 - Rust (especially to use [flutter_rust_bridge](https://pub.dev/packages/flutter_rust_bridge))
 - Google Cloud Platform
@@ -51,8 +51,8 @@ These are secondary technologies I want to eventually master to supllmement my e
 
 These are technologies I've used in the past but I'm not currently using or investing much time into. From a month or 2 ago up to 2 years ago.
 
-- **Programming Languages**: C, Java, Spring Boot, Python, Lua, Odin, C3
-- **Technologies**: AWS, Heroku, SquashTM, LangChain, Trello, Jira
+- **Programming Languages**: Swift/SwiftUI, C, Java, Spring Boot, Python, Lua, Odin, C3
+- **Technologies**: AWS, Heroku, SquashTM, LangChain, Trello, Jira, Xcode
 - **AI Tools:** Cursor, Windsurf, Trae, Gemini CLI, Antigravity
 
 ### General Skills
