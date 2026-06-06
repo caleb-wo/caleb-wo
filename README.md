@@ -1,7 +1,8 @@
 # Caleb Wolfe
 ![BYU-Idaho B.S. SE](https://img.shields.io/badge/BYU--Idaho-B.S.%20Software%20Engineering-blue?style=for-the-badge&logoColor=white) <sub>(Senior)</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-m-wolfe/) [![Email](https://img.shields.io/badge/GMX%20Mail-004A99?style=flat-square&logo=mail.ru&logoColor=white)](mailto:caleb-wolfe@gmx.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-m-wolfe/) [![Email](https://img.shields.io/badge/Zoho%20Mail-E42527?style=flat-square&logo=zoho&logoColor=white)](mailto:caleb-wolfe@zohomail.com)
+
 
 **Software Engineering student at BYU-Idaho**
 
