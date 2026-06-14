@@ -8,9 +8,9 @@
 
 Thanks for visiting! This page used to be super bloated. So, here's a quick snapshot of who I am & what I'm working on.
 
-I'm Caleb Wolfe, a BYU–I senior pursuing a career in **Flutter Mobile Development**. I just love Flutter & it's been a blast to learn. I'm working on many projects & have some plans for apps I want to release & actually monetize. 
+I'm Caleb Wolfe, a BYU–I senior pursuing a career in **Project Management** & **Flutter Mobile Development**. Simply put, I got a job at BYU–Idaho in 2023 & overtime was promoted to project manager & I _loved_ it. That's when I realized it was something I wanted to do professionally. I enjoy being the glue between cross-functional teams & finding opportunities to optimize processes. I'm currently [self-studying](https://www.amazon.com/Certified-Associate-Project-Management-Guide/dp/1260467597/ref=sr_1_11?crid=2L6V3B9SS8UNB&dib=eyJ2IjoiMSJ9.OqAwp3myZbiCAJzNl14BZINY6SEer3BenJBd4aZKA668UGqiquvCb20rKs4NMCY_roHh4XQ4iMiMT48jY-RDO9Fk67et5lYxxwjA6oyDmLyfvTJl39LDCJfbvqr0gXxAb1Eh9YgwFMAhgyR_pi8dWzIIqNsu8lIVkV42MR9-KVYX4FMcVJWhkvTEAY4bUvv56iaYF2O4jvBtrQxXumLAVaXy-psdueS1_PP-I0rKVEk.vgf-4aHBLyar4DhrWMcfbOffMH_WL-xyb3SDFgbTIns&dib_tag=se&keywords=capm+certification&qid=1781469642&sprefix=CAPM+cer%2Caps%2C235&sr=8-11) for a Certified Associate Project Manager (CAPM) certification. That said, the remainder of this page will be angled to my developer side. 
 
-Until then, I've been learning Flutter super fast using this [![Udemy](https://img.shields.io/badge/Udemy-%23A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/flutter-the-guide-to-build-android-ios-and-web-apps/) <sub>(click me)</sub> course. I'm **eager as heck** to start making apps. But, I know slowing down, & learning first will yeild high returns in the long run. So, right now, I'm mainly working on learning & networking. I'm on the hunt to make some friends & find some mentors in the Flutter community.
+Regarding Flutter, I just love it & it's been a blast to learn. I'm working on many projects & have some plans for apps I want to release & actually monetize. Until then, I've been learning Flutter super fast using this [![Udemy](https://img.shields.io/badge/Udemy-%23A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/flutter-the-guide-to-build-android-ios-and-web-apps/) <sub>(click me)</sub> course. I'm **eager as heck** to start making apps. But, I know slowing down, & learning first will yeild high returns in the long run. So, right now, I'm mainly working on learning & networking. I'm on the hunt to make some friends & find some mentors in the Flutter community.
 
 ## Skills
 
@@ -44,7 +44,7 @@ These are secondary technologies I want to eventually master to suplement my eng
 > Note: when I'm trying to learn, I do not use AI to write any code or build any projects. I make custom [Gems](https://gemini.google/overview/gems/) which I use as tutors to expand my studies & generate lessons.
 >
 > - [Cline](https://cline.bot/)
->   - Extended with automated workflows, local & global [Skills](https://docs.cline.bot/customization/skills), & [Rules](https://docs.cline.bot/customization/cline-rules).
+>   - Extended with automated workflows, local & global [Skills](https://docs.cline.bot/customization/skills), [Memory Banks](https://docs.cline.bot/best-practices/memory-bank), & [Rules](https://docs.cline.bot/customization/cline-rules).
 > - Gemini AI Pro
 
 ### 🩶 Tier Two:
@@ -52,7 +52,7 @@ These are secondary technologies I want to eventually master to suplement my eng
 These are technologies I've used in the past but I'm not currently using or investing much time into. From a month or 2 ago up to 2 years ago.
 
 - **Programming Languages**: Swift/SwiftUI, C, Java, Spring Boot, Python, Lua, Odin, C3
-- **Technologies**: AWS, Heroku, SquashTM, LangChain, Trello, Jira, Xcode
+- **Technologies**: AWS, Heroku, SquashTM, LangChain, Trello, Jira, Xcode, SquashTM, Postman, Playwright
 - **AI Tools:** Cursor, Windsurf, Trae, Gemini CLI, Antigravity
 
 ### General Skills
@@ -61,10 +61,10 @@ These are technologies I've used in the past but I'm not currently using or inve
 - Frontend, Backend, & Fullstack Engineering
 - Object-oriented Programming
 - Terminal Fluency (I prefer `flutter create --org...` over editor buttons)
-- Vim (both in the terminal & through IDE plugins)
+- Vim (both in the terminal & via IDE plugins)
 
 > ## P.S.
 >
-> This is my Dashatar!
+> This is my Dashatar, Dashleb!
 >
 > ![Dashleb, Caleb's Dashatar](assets/Dashleb.png)
